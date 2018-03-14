@@ -1,0 +1,41 @@
+
+h1{
+	text-align: center;
+}
+body,i{
+	text-align: center;
+	margin: 30px;
+	margin-bottom: 20px;
+}
+
+#left,p{
+	width: 50%;
+	height: 50%;
+	background-color: #ffffff;
+	float: left;
+	display: block;
+	margin-left: 30px;
+	
+
+}
+#right,p{
+	width: 50%;
+	height: 50%;
+	background-color: #ffffff;
+}
+#right{
+	margin-left: 500px;
+}
+#text{
+
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 430px;
+}
+#register{
+	margin-top: 380px;
+	margin-right: 100px;
+	display: block;
+
+
+}
